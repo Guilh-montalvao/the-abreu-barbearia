@@ -43,6 +43,5 @@ next-env.d.ts
 /.sites-runtime/
 /.agents/
 /.codex/
-/.openai/
 /outputs/
 /work/
